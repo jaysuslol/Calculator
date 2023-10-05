@@ -287,8 +287,4 @@ public class CalculatorWindow extends JFrame {
             }
         }.parse();
     }
-
-    private void createUIComponents() {
-        // TODO: place custom component creation code here
-    }
 }
